@@ -9,29 +9,17 @@ Program structure:
 
 
        ├─src
-
        │  ├─main
-
        │  │  ├─java
-
        │  │  │  ├─bo
-
        │  │  │  ├─compoment
-
        │  │  │  ├─config
-
        │  │  │  ├─dao
-
        │  │  │  ├─META-INF
-
        │  │  │  ├─service
-
        │  │  │  └─util
-
        │  │  └─resources
-
        │  │      └─META-INF
-
        │  └─test
              └─java
 
