@@ -8,45 +8,43 @@ To add new commands,edit the function Re_MSG_Private() or RE_MSG_Group() in  con
 Program structure:
 
 
-├─src
+       ├─src
 
 
-│  ├─main
+       │  ├─main
 
 
-│  │  ├─java
+       │  │  ├─java
 
 
-│  │  │  ├─bo
+       │  │  │  ├─bo
 
 
-│  │  │  ├─compoment
+       │  │  │  ├─compoment
 
 
-│  │  │  ├─config
+       │  │  │  ├─config
 
 
-│  │  │  ├─dao
+       │  │  │  ├─dao
 
 
-│  │  │  ├─META-INF
+       │  │  │  ├─META-INF
 
 
-│  │  │  ├─service
+       │  │  │  ├─service
 
 
-│  │  │  └─util
+       │  │  │  └─util
 
 
-│  │  └─resources
+       │  │  └─resources
 
 
-│  │      └─META-INF
+       │  │      └─META-INF
 
 
-│  └─test
-
-
-       └─java
+       │  └─test
+             └─java
 
 
