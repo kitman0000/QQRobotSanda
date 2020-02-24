@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Class-Path: httpclient-4.3.4.jar httpmime-4.1.2.jar commons-logging-1.
+ 1.3.jar jackson-annotations-2.10.1.jar jackson-databind-2.10.1.jar ja
+ ckson-core-2.10.1.jar commons-codec-1.6.jar fastjson-1.2.62.jar log4j
+ -1.2.17.jar httpcore-4.3.2.jar httpclient-cache-4.1.2.jar jsonij-0.3.
+ 1.jar mysql-connector-java-8.0.11.jar kqbot-0.01.jar java_websocket.j
+ ar
+Main-Class: QQRobot
+

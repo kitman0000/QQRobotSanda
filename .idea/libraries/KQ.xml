@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="KQ">
+    <CLASSES>
+      <root url="jar://D:/类库/jar包/jsonij-0.3.1.jar!/" />
+      <root url="jar://D:/类库/jar包/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://D:/类库/jar包/kqbot-0.01.jar!/" />
+      <root url="jar://D:/类库/jar包/java_websocket.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
